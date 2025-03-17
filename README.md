@@ -18,7 +18,7 @@ I'm a self-taught passionate student studying in BIT
 <div id="title" align=center>
 
 [![youtube](https://img.shields.io/badge/Video-YouTube-red)](https://www.youtube.com/@Oliver_hyl)
-[![bilibili](https://img.shields.io/badge/Video-bilibili-pink)](https://space.bilibili.com/22802737?spm_id_from=333.1007.0.0)
+[![bilibili](https://img.shields.io/badge/Video-Bilibili-pink)](https://space.bilibili.com/22802737?spm_id_from=333.1007.0.0)
 
 ![](https://img.shields.io/badge/讨厌-熬夜-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-green) 
