@@ -5,7 +5,7 @@
 [![youtube](https://img.shields.io/badge/Video-YouTube-red)](https://www.youtube.com/@Oliver_hyl)
 
 ![](https://img.shields.io/badge/讨厌-打瞌睡-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
+![](https://img.shields.io/badge/性格-开朗-green) 
 ![](https://img.shields.io/badge/爱好-拼好饭-red)
 
 </div>
