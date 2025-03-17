@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Redamancy8013/Redamancy8013/blob/main/image.png">
+  <img src="https://github.com/Redamancy8013/Redamancy8013/blob/main/pic.png">
 </div>
 
 <br />
