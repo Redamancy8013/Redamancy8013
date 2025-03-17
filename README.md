@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redamancy8013)](https://github.com/anuraghazra/github-readme-stats)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Redamancy8013&left_color=green&right_color=red)
 <!--
 **Redamancy8013/Redamancy8013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
